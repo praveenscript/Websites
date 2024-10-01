@@ -55,9 +55,38 @@ body{
     display: block;
     height: 76px;
     width: 50px;
-    padding: 32px 0 8px 0;
- 
+    padding: 32px 0px 8px 0px;
+}
 
+.login-options > ul{
+    list-style-type: none;
+    font-size: 20px;
+    margin-top: 34px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+
+    
+}
+
+.login-options > ul > li{
+    border: 1px solid white;
+    border-radius: 100px;
+    margin-top: 10px;
+    width: 380px;
+    padding: 4px 4px 8px 0; 
+    /* text-align: center; */
+}
+
+.login-options > ul > li > img {
+   padding-top: 12px;
+   margin: 0 40px 0 35px;
+   
+}
+
+#Phone-Num {
+    text-align: center;
+    padding-left: 20px;
+    height: 48px;
+    padding-top: 12px;
 }
 
 
