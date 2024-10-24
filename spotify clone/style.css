@@ -200,12 +200,18 @@ body{
     justify-content: center;
     font-size: 16px;
     position: relative;
+    transition: border 0.2s ease;
     @media(max-width: 600px)  { 
         width: 100%;
         max-width: none;
         
     }
     
+}
+
+.login-options > ul > li:hover{
+    border: 1px solid white;
+
 }
 
 .login-options > ul > li > img{
@@ -239,6 +245,14 @@ body{
     /* position: absolute; */
 
 
+}
+
+#pass_form{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .line-splitter{
@@ -309,10 +323,23 @@ body{
     color: black;
 }
 
+.login-button-green:hover{
+    background-color: #1abc54;
+}
+
 .green-button-container{
     width: 100%;
     max-width: 324px;
     margin-top: 16px;
+    transition: transform 0.3 ease-out;
+    /* background-color: #1abc54; */
+
+
+}
+
+.green-button-container:hover{
+    transform: scale(1.1);
+    /* background-color: #1abc54; */
 
 
 }
@@ -400,17 +427,22 @@ footer{
     width: 100%
 }
 
-.empty:nth-of-type(2) {
-    /* display: block;
-    width: 100%;
-    height: 100%; */
+#password {
+    position: relative;
 }
 
-/* @media(max-width:600px){
-    .empty{
-    display: block;
-    width: 100%;
-    height: 40px;
-    }
-} */
+#eyebutton {
+    all: unset;
+    position: absolute;
+    height: 24px;
+    width: 24px;
+    display: inline-block;
+    right: 7px;
+    bottom: 11px;
+    filter: invert(100%);
+    cursor: pointer;
+    
+    
+}
+
 

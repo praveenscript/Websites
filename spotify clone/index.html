@@ -1,62 +1,96 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Spotify Login</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
     <div class="content">
-        <div class="login-box">
-            <div class="login-img">
-                <img src="images/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0IiBhcmlhLWxhYmVsPSJTcG90aWZ5IiBhcmlhLWhpZGRlbj0iZmFsc2UiIGhlaWdodD0iMTAwJS.svg" height="34px" width="40px">
-            </div>
-            <div class="login-msg">
-                <h2>Log in to Spotify</h2>
-            </div>
-            <div class="login-options">
-            <ul>
-                <li class="login-buttons"><img src="images/google.svg" height="20px" width="24px" alt="" srcset=""><button class="button-options" type="button">Continue with Google</button></li>
-                <li class="login-buttons"><img src="images/facebook.svg" alt="" srcset=""><button class="button-options" type="button">Continue with facebook</button></li>
-                <li class="login-buttons"><img src="images/apple.svg" alt=""><button class="button-options" type="button">Continue with Apple</button></li>
-                <li class="login-buttons"><button class="button-options" type="button">Continue with phone number</button></li>
-            </ul>
-            
+      <div class="login-box">
+        <div class="login-img">
+          <img
+            src="images/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0IiBhcmlhLWxhYmVsPSJTcG90aWZ5IiBhcmlhLWhpZGRlbj0iZmFsc2UiIGhlaWdodD0iMTAwJS.svg"
+            height="34px"
+            width="40px"
+          />
         </div>
-        <div class="line-splitter"> </div>
-        <div class="login-container">
-            <span>Email or username</span>
-            <input placeholder="Email or username">
+        <div class="login-msg">
+          <h2>Log in to Spotify</h2>
         </div>
+        <div class="login-options">
+          <ul>
+            <li class="login-buttons">
+              <img
+                src="images/google.svg"
+                height="20px"
+                width="24px"
+                alt=""
+                srcset=""
+              /><button class="button-options" type="button">
+                Continue with Google
+              </button>
+            </li>
+            <li class="login-buttons">
+              <img src="images/facebook.svg" alt="" srcset="" /><button
+                class="button-options"
+                type="button"
+              >
+                Continue with facebook
+              </button>
+            </li>
+            <li class="login-buttons">
+              <img src="images/apple.svg" alt="" /><button
+                class="button-options"
+                type="button"
+              >
+                Continue with Apple
+              </button>
+            </li>
+            <li class="login-buttons">
+              <button class="button-options" type="button">
+                Continue with phone number
+              </button>
+            </li>
+          </ul>
+        </div>
+        <div class="line-splitter"></div>
+        <form method="post" id="pass_form">
         <div class="login-container">
-            <span>Password</span>
-            <input type="Password" placeholder="Password">
+          <span>Email or username</span>
+          <input placeholder="Email or username" name="username" id="input_username"/>
+        </div>
+        <div class="login-container" id="password" >
+          <span>Password</span>
+          <input type="Password" placeholder="Password" class="pass" name="password" id="input_password"/>
+          <button type="button" id="eyebutton">
+            <img src="images/eye.svg" alt="" srcset="">
+          </button>
         </div>
         <div class="green-button-container">
-        <div class="login-button-green">
-            <button class="button-options">
-                Log In
-            </button>
+          <div class="login-button-green">
+            <button class="button-options" type="submit">Log In</button>
+          </div>
         </div>
-    </div>
-            <div class="forget_yourpassword">
-                <a href="">Forgot your password?</a>
-            </div>
+      </form>
         <div class="forget_yourpassword">
-            <span>Don't have an account?</span>
-            <a href="">Sign up for Spotify</a>
+          <a href="">Forgot your password?</a>
+        </div>
+        <div class="forget_yourpassword">
+          <span>Don't have an account?</span>
+          <a href="">Sign up for Spotify</a>
         </div>
         <div class="empty"></div>
         <div class="empty"></div>
-
-        </div>
-        
-        
-        
+      </div>
     </div>
     <footer>
-            <p>This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.</p>
+      <p>
+        This site is protected by reCAPTCHA and the Google Privacy Policy and
+        Terms of Service apply.
+      </p>
     </footer>
-</body>
+    <script src="script.js"></script>
+  </body>
 </html>
