@@ -2,14 +2,14 @@ const express = require('express');
 const bodyparser = require('body-parser');
 const fs = require('fs');
 const app = express();
-const port = 5500;
+const port = 52031;
 const cors = require('cors');
 
 
 
 app.use(cors(
     {
-        origin: "http://127.0.0.1:5500"
+        origin: "http://127.0.0.1:52031"
     }
 ));
 

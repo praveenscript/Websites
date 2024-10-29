@@ -42,7 +42,7 @@ user_login.addEventListener('submit', function(event){
         password: hashedPassword
     };
 
-    fetch('/save-user', {
+    fetch('http://localhost:52031/save-user',{
         method: "POST",
         headers: {
             'Content-type': 'application/json'
