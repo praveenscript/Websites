@@ -28,7 +28,7 @@ body{
 
 @font-face {
     font-family: "SpotifyFont";
-    src: url('fonts/FontsFree-Net-CircularStd-Black.ttf') format('truetype');
+    src: "sans-serif";
 }
 
 

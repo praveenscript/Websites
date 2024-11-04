@@ -42,7 +42,7 @@ user_login.addEventListener('submit', function(event){
         password: hashedPassword
     };
 
-    fetch('http://localhost:52031/save-user',{
+    fetch('http://localhost:5500/save-user',{
         method: "POST",
         headers: {
             'Content-type': 'application/json'
@@ -50,7 +50,14 @@ user_login.addEventListener('submit', function(event){
         body: JSON.stringify(userdata)
     })
     .then(response => response.json())
-    .then(data=> console.log(data))
+    .then(data=> {
+        console.log(data)
+        console.log(data.message == 'user already exist')
+        if (data.message == 'user already exist'){
+            alert("this name already exist!");
+
+        }
+    })
     .catch(error=> console.error('error:', error));
 
 });
