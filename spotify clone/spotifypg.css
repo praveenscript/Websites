@@ -1,0 +1,110 @@
+*, ::after, ::before {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'SpotifyFont', 'Georgia', 'Times New Roman', Times, serif;
+    /* outline: 1px solid red; */
+
+}
+
+body{
+    min-height: 100vh;
+    background-color: #47263D;
+    
+
+}
+
+#navbar{
+    width: 100%;
+    height: 64px;
+    /* background-color: black; */
+    padding: 6px;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    position: sticky;
+    display: flex;
+    outline: 1px solid yellow;
+}
+
+#navbar img{
+    height: 40px;
+    width: 40px;
+    /* filter: invert(100%); */
+}
+
+
+
+#navbar .images{
+    height: 56px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#navbar .searchbar input{
+    width: 490px;
+    height: 48px;
+    border: none;
+    outline: none;
+    background-color: #2A2A2A;
+    border-radius: 40px;
+    color: white;
+    font-size: 16px;
+    padding: 14px;
+    background-color: #33142A;
+    /* position: relative; */
+
+
+}
+
+.searchbar{
+    position: relative;
+}
+
+#navbar .searchbar img {
+    position: absolute;
+    right: 15px;
+    top: 5px;
+    
+}
+
+#navbar .searchbar input::placeholder{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+.premium{
+    /* border: 1px solid #33142A; */
+    color: white;
+    background-color: #33142A;
+    border-radius: 50px;
+    height: 48px;
+    width: 160px;
+    padding: 14px 0 0 14px;
+    
+
+}
+
+.premium p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.container { 
+    display: flex; 
+    flex-wrap: no-wrap; 
+    gap: 10px; 
+} 
+    
+.song-item { 
+    flex: 1 1 500px;
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px; 
+}

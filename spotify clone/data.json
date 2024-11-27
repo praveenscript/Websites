@@ -1,0 +1,802 @@
+{
+    "tracks": {
+        "href": "https://api.spotify.com/v1/search?query=rezero&type=track&market=IN&locale=en-US%2Cen&offset=0&limit=10",
+        "items": [
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/74NNqfYPIeWy9p6DTDxkcK"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/74NNqfYPIeWy9p6DTDxkcK",
+                            "id": "74NNqfYPIeWy9p6DTDxkcK",
+                            "name": "エミリア(CV:高橋李依)",
+                            "type": "artist",
+                            "uri": "spotify:artist:74NNqfYPIeWy9p6DTDxkcK"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/7BVqQT1IFgaSMxfDk4YFMu"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/7BVqQT1IFgaSMxfDk4YFMu",
+                    "id": "7BVqQT1IFgaSMxfDk4YFMu",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2733b467dc30114d56300909caa",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e023b467dc30114d56300909caa",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048513b467dc30114d56300909caa",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "TVアニメ「Re:ゼロから始める異世界生活」後期エンディングテーマ「Stay Alive」",
+                    "release_date": "2016-08-24",
+                    "release_date_precision": "day",
+                    "total_tracks": 6,
+                    "type": "album",
+                    "uri": "spotify:album:7BVqQT1IFgaSMxfDk4YFMu"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/74NNqfYPIeWy9p6DTDxkcK"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/74NNqfYPIeWy9p6DTDxkcK",
+                        "id": "74NNqfYPIeWy9p6DTDxkcK",
+                        "name": "エミリア(CV:高橋李依)",
+                        "type": "artist",
+                        "uri": "spotify:artist:74NNqfYPIeWy9p6DTDxkcK"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 267066,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "JPD731600777"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5ULPf6SjZSQkWCNSUn29xO"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5ULPf6SjZSQkWCNSUn29xO",
+                "id": "5ULPf6SjZSQkWCNSUn29xO",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Stay Alive",
+                "popularity": 47,
+                "preview_url": "https://p.scdn.co/mp3-preview/a4c82bac1cb113f445f87470a993b2dec245799b?cid=bd3f42fc46184dd4860e6ae28ff76274",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:5ULPf6SjZSQkWCNSUn29xO"
+            },
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5LUmZH8JmFmZwyzBNqXDOw"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5LUmZH8JmFmZwyzBNqXDOw",
+                            "id": "5LUmZH8JmFmZwyzBNqXDOw",
+                            "name": "Skilifay",
+                            "type": "artist",
+                            "uri": "spotify:artist:5LUmZH8JmFmZwyzBNqXDOw"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/67vdwpAyLKFLAzItwGzAb5"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/67vdwpAyLKFLAzItwGzAb5",
+                    "id": "67vdwpAyLKFLAzItwGzAb5",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27320b374865db98832a21e1425",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0220b374865db98832a21e1425",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485120b374865db98832a21e1425",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Re:Zero - Wishing But It's Lofi",
+                    "release_date": "2021-08-14",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:67vdwpAyLKFLAzItwGzAb5"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5LUmZH8JmFmZwyzBNqXDOw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5LUmZH8JmFmZwyzBNqXDOw",
+                        "id": "5LUmZH8JmFmZwyzBNqXDOw",
+                        "name": "Skilifay",
+                        "type": "artist",
+                        "uri": "spotify:artist:5LUmZH8JmFmZwyzBNqXDOw"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 221543,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "QZK6G2164547"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3XQV7GX5tXhKusyfciNSpA"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3XQV7GX5tXhKusyfciNSpA",
+                "id": "3XQV7GX5tXhKusyfciNSpA",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Re:Zero - Wishing But It's Lofi",
+                "popularity": 24,
+                "preview_url": "https://p.scdn.co/mp3-preview/eb9dc80148fc54f6a000d6eba29d7570a8bb98b0?cid=bd3f42fc46184dd4860e6ae28ff76274",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:3XQV7GX5tXhKusyfciNSpA"
+            },
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0M0v61x8lN3rDLbmTnlYBg",
+                            "id": "0M0v61x8lN3rDLbmTnlYBg",
+                            "name": "前島麻由",
+                            "type": "artist",
+                            "uri": "spotify:artist:0M0v61x8lN3rDLbmTnlYBg"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6d6EbMmU9SJERnyBHSnot7"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6d6EbMmU9SJERnyBHSnot7",
+                    "id": "6d6EbMmU9SJERnyBHSnot7",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2737ba08cfb2d68df2107d60676",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e027ba08cfb2d68df2107d60676",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048517ba08cfb2d68df2107d60676",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "TVアニメ「Re:ゼロから始める異世界生活」2nd season 後期オープニングテーマ「Long shot」",
+                    "release_date": "2021-02-24",
+                    "release_date_precision": "day",
+                    "total_tracks": 4,
+                    "type": "album",
+                    "uri": "spotify:album:6d6EbMmU9SJERnyBHSnot7"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0M0v61x8lN3rDLbmTnlYBg",
+                        "id": "0M0v61x8lN3rDLbmTnlYBg",
+                        "name": "前島麻由",
+                        "type": "artist",
+                        "uri": "spotify:artist:0M0v61x8lN3rDLbmTnlYBg"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 255132,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "JPD732000473"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2kmavGOlbXcEmZwjFNOo0T"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2kmavGOlbXcEmZwjFNOo0T",
+                "id": "2kmavGOlbXcEmZwjFNOo0T",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Long shot",
+                "popularity": 48,
+                "preview_url": "https://p.scdn.co/mp3-preview/bf9b1cd2600977c2752e327835600fd4b712caaf?cid=bd3f42fc46184dd4860e6ae28ff76274",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:2kmavGOlbXcEmZwjFNOo0T"
+            },
+            {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1NRrtMvT3o1TI6I8XCuweq",
+                            "id": "1NRrtMvT3o1TI6I8XCuweq",
+                            "name": "MYTH & ROID",
+                            "type": "artist",
+                            "uri": "spotify:artist:1NRrtMvT3o1TI6I8XCuweq"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2VFEPv8gs1mSj67hEDbRMO"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2VFEPv8gs1mSj67hEDbRMO",
+                    "id": "2VFEPv8gs1mSj67hEDbRMO",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273bf97b2acaf967bb8ee7aa2f6",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02bf97b2acaf967bb8ee7aa2f6",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851bf97b2acaf967bb8ee7aa2f6",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "eYe's",
+                    "release_date": "2017-04-26",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:2VFEPv8gs1mSj67hEDbRMO"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1NRrtMvT3o1TI6I8XCuweq",
+                        "id": "1NRrtMvT3o1TI6I8XCuweq",
+                        "name": "MYTH & ROID",
+                        "type": "artist",
+                        "uri": "spotify:artist:1NRrtMvT3o1TI6I8XCuweq"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 289573,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "JPD731600476"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2tcSz3bcJqriPg9vetvJLs"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2tcSz3bcJqriPg9vetvJLs",
+                "id": "2tcSz3bcJqriPg9vetvJLs",
+                "is_local": false,
+                "is_playable": true,
+                "name": "STYX HELIX",
+                "popularity": 56,
+                "preview_url": "https://p.scdn.co/mp3-preview/1a7d048d07bdd41f56311ab81927f23819cfe8fc?cid=bd3f42fc46184dd4860e6ae28ff76274",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:2tcSz3bcJqriPg9vetvJLs"
+            },
+            {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3PpfvyyncoZ79IgYe0Uls0",
+                            "id": "3PpfvyyncoZ79IgYe0Uls0",
+                            "name": "HOMIES",
+                            "type": "artist",
+                            "uri": "spotify:artist:3PpfvyyncoZ79IgYe0Uls0"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1QuuarCDtB9FLdciO1iT0b"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1QuuarCDtB9FLdciO1iT0b",
+                    "id": "1QuuarCDtB9FLdciO1iT0b",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735c23ddf63044b431186ea904",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025c23ddf63044b431186ea904",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515c23ddf63044b431186ea904",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "GENERATION",
+                    "release_date": "2021-12-14",
+                    "release_date_precision": "day",
+                    "total_tracks": 15,
+                    "type": "album",
+                    "uri": "spotify:album:1QuuarCDtB9FLdciO1iT0b"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3PpfvyyncoZ79IgYe0Uls0",
+                        "id": "3PpfvyyncoZ79IgYe0Uls0",
+                        "name": "HOMIES",
+                        "type": "artist",
+                        "uri": "spotify:artist:3PpfvyyncoZ79IgYe0Uls0"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 164040,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "KRA382164091"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6UUt2ia2KlWou8iNTD2NkD"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6UUt2ia2KlWou8iNTD2NkD",
+                "id": "6UUt2ia2KlWou8iNTD2NkD",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Re:Zero",
+                "popularity": 20,
+                "preview_url": "https://p.scdn.co/mp3-preview/59223dda0cc90992170b848c29f7512afd4d4c5c?cid=bd3f42fc46184dd4860e6ae28ff76274",
+                "track_number": 6,
+                "type": "track",
+                "uri": "spotify:track:6UUt2ia2KlWou8iNTD2NkD"
+            },
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1QduecpnkRXRXtbFdEYZRC"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1QduecpnkRXRXtbFdEYZRC",
+                            "id": "1QduecpnkRXRXtbFdEYZRC",
+                            "name": "nonoc",
+                            "type": "artist",
+                            "uri": "spotify:artist:1QduecpnkRXRXtbFdEYZRC"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/7GWGoY2dOj5dK3F6sFtrAl"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/7GWGoY2dOj5dK3F6sFtrAl",
+                    "id": "7GWGoY2dOj5dK3F6sFtrAl",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273c69b16877198dea5c7fe3113",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02c69b16877198dea5c7fe3113",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851c69b16877198dea5c7fe3113",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "TVアニメ「Re:ゼロから始める異世界生活」2nd seasonエンディングテーマ「Memento」",
+                    "release_date": "2020-09-02",
+                    "release_date_precision": "day",
+                    "total_tracks": 4,
+                    "type": "album",
+                    "uri": "spotify:album:7GWGoY2dOj5dK3F6sFtrAl"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1QduecpnkRXRXtbFdEYZRC"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1QduecpnkRXRXtbFdEYZRC",
+                        "id": "1QduecpnkRXRXtbFdEYZRC",
+                        "name": "nonoc",
+                        "type": "artist",
+                        "uri": "spotify:artist:1QduecpnkRXRXtbFdEYZRC"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 304483,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "JPD732000061"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1VVWRZjUIoJVtGQOoAN8nD"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1VVWRZjUIoJVtGQOoAN8nD",
+                "id": "1VVWRZjUIoJVtGQOoAN8nD",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Memento",
+                "popularity": 49,
+                "preview_url": "https://p.scdn.co/mp3-preview/fe508bfb363e4c195b0e0e952c3249aaee6bc890?cid=bd3f42fc46184dd4860e6ae28ff76274",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:1VVWRZjUIoJVtGQOoAN8nD"
+            },
+            {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2OyKkjeWOmxlp8LwpQqRP1",
+                            "id": "2OyKkjeWOmxlp8LwpQqRP1",
+                            "name": "Kenichiro Suehiro",
+                            "type": "artist",
+                            "uri": "spotify:artist:2OyKkjeWOmxlp8LwpQqRP1"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1wc6rinE08roo3gpvLRR6U"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1wc6rinE08roo3gpvLRR6U",
+                    "id": "1wc6rinE08roo3gpvLRR6U",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273fd321db346b695834b155171",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02fd321db346b695834b155171",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851fd321db346b695834b155171",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "TVアニメ「Re:ゼロから始める異世界生活」サウンドトラックCD",
+                    "release_date": "2016-10-26",
+                    "release_date_precision": "day",
+                    "total_tracks": 21,
+                    "type": "album",
+                    "uri": "spotify:album:1wc6rinE08roo3gpvLRR6U"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2OyKkjeWOmxlp8LwpQqRP1",
+                        "id": "2OyKkjeWOmxlp8LwpQqRP1",
+                        "name": "Kenichiro Suehiro",
+                        "type": "artist",
+                        "uri": "spotify:artist:2OyKkjeWOmxlp8LwpQqRP1"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 166533,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "JPD731600872"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1R2cC0YqGkY8HG1pETpUrh"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1R2cC0YqGkY8HG1pETpUrh",
+                "id": "1R2cC0YqGkY8HG1pETpUrh",
+                "is_local": false,
+                "is_playable": true,
+                "name": "魔女の呼び声",
+                "popularity": 28,
+                "preview_url": "https://p.scdn.co/mp3-preview/4034a7a4b601643c9f9f61b3c5dbb951d3fb97ee?cid=bd3f42fc46184dd4860e6ae28ff76274",
+                "track_number": 15,
+                "type": "track",
+                "uri": "spotify:track:1R2cC0YqGkY8HG1pETpUrh"
+            },
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/6cd3XfCAc3e596RQW8P94H"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/6cd3XfCAc3e596RQW8P94H",
+                            "id": "6cd3XfCAc3e596RQW8P94H",
+                            "name": "Rustage",
+                            "type": "artist",
+                            "uri": "spotify:artist:6cd3XfCAc3e596RQW8P94H"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2FqEyce1MZaa2ZjfV3wNFO"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2FqEyce1MZaa2ZjfV3wNFO",
+                    "id": "2FqEyce1MZaa2ZjfV3wNFO",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2733ee456104dba91e60f17008f",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e023ee456104dba91e60f17008f",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048513ee456104dba91e60f17008f",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Again (Re:Zero Rap) [feat. McGwire & LulunaRina]",
+                    "release_date": "2021-04-16",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:2FqEyce1MZaa2ZjfV3wNFO"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6cd3XfCAc3e596RQW8P94H"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6cd3XfCAc3e596RQW8P94H",
+                        "id": "6cd3XfCAc3e596RQW8P94H",
+                        "name": "Rustage",
+                        "type": "artist",
+                        "uri": "spotify:artist:6cd3XfCAc3e596RQW8P94H"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/411VUMJLq5DVLoU7OaBwk7"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/411VUMJLq5DVLoU7OaBwk7",
+                        "id": "411VUMJLq5DVLoU7OaBwk7",
+                        "name": "McGwire",
+                        "type": "artist",
+                        "uri": "spotify:artist:411VUMJLq5DVLoU7OaBwk7"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6ljlWPpiLmsJd7e5J2qjwp"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6ljlWPpiLmsJd7e5J2qjwp",
+                        "id": "6ljlWPpiLmsJd7e5J2qjwp",
+                        "name": "LulunaRina",
+                        "type": "artist",
+                        "uri": "spotify:artist:6ljlWPpiLmsJd7e5J2qjwp"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 180000,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "QZES72131355"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/15a82JWfZjb88Mpwdsg9FJ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/15a82JWfZjb88Mpwdsg9FJ",
+                "id": "15a82JWfZjb88Mpwdsg9FJ",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Again (Re:Zero Rap) [feat. McGwire & LulunaRina]",
+                "popularity": 33,
+                "preview_url": "https://p.scdn.co/mp3-preview/2ff90954e48aae86c7937ada55a32b1f33df6586?cid=bd3f42fc46184dd4860e6ae28ff76274",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:15a82JWfZjb88Mpwdsg9FJ"
+            },
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/5ZcXM1KFH6hhLoBIdgCnap"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/5ZcXM1KFH6hhLoBIdgCnap",
+                            "id": "5ZcXM1KFH6hhLoBIdgCnap",
+                            "name": "Miura Jam",
+                            "type": "artist",
+                            "uri": "spotify:artist:5ZcXM1KFH6hhLoBIdgCnap"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1c7XKn06G43NKFkQBXtndI"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1c7XKn06G43NKFkQBXtndI",
+                    "id": "1c7XKn06G43NKFkQBXtndI",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273537f48dc6aa36e1f59927546",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02537f48dc6aa36e1f59927546",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851537f48dc6aa36e1f59927546",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Redo (From \"Re:Zero\")",
+                    "release_date": "2020-11-10",
+                    "release_date_precision": "day",
+                    "total_tracks": 1,
+                    "type": "album",
+                    "uri": "spotify:album:1c7XKn06G43NKFkQBXtndI"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5ZcXM1KFH6hhLoBIdgCnap"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5ZcXM1KFH6hhLoBIdgCnap",
+                        "id": "5ZcXM1KFH6hhLoBIdgCnap",
+                        "name": "Miura Jam",
+                        "type": "artist",
+                        "uri": "spotify:artist:5ZcXM1KFH6hhLoBIdgCnap"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 256723,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "QZGWX2054390"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2F8MAC45Z4L8ZqMMKZku5I"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2F8MAC45Z4L8ZqMMKZku5I",
+                "id": "2F8MAC45Z4L8ZqMMKZku5I",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Redo (From \"Re:Zero\")",
+                "popularity": 25,
+                "preview_url": "https://p.scdn.co/mp3-preview/939a93794a9ad9343950622bed2dde0f430dc1ea?cid=bd3f42fc46184dd4860e6ae28ff76274",
+                "track_number": 1,
+                "type": "track",
+                "uri": "spotify:track:2F8MAC45Z4L8ZqMMKZku5I"
+            },
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                            "id": "0LyfQWJT6nXafLPZqxe9Of",
+                            "name": "Various Artists",
+                            "type": "artist",
+                            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0bCxDTBwGPwmBVPEaFssGt"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/0bCxDTBwGPwmBVPEaFssGt",
+                    "id": "0bCxDTBwGPwmBVPEaFssGt",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273d5e2bc0fd0d86b6257a77b83",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02d5e2bc0fd0d86b6257a77b83",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851d5e2bc0fd0d86b6257a77b83",
+                            "width": 64
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "熱烈！アニソン魂 ULTIMATEカバーシリーズ2017 JAPAN ANIMESONG COLLECTION mini vol.4",
+                    "release_date": "2017-11-22",
+                    "release_date_precision": "day",
+                    "total_tracks": 6,
+                    "type": "album",
+                    "uri": "spotify:album:0bCxDTBwGPwmBVPEaFssGt"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2iGUDvFjwcFbLUwO1K7yjX"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2iGUDvFjwcFbLUwO1K7yjX",
+                        "id": "2iGUDvFjwcFbLUwO1K7yjX",
+                        "name": "平間美賀",
+                        "type": "artist",
+                        "uri": "spotify:artist:2iGUDvFjwcFbLUwO1K7yjX"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 256736,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "JPP751101855"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3rrWCRsavfW6dTuzeyvbPp"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3rrWCRsavfW6dTuzeyvbPp",
+                "id": "3rrWCRsavfW6dTuzeyvbPp",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Redo (Re:ゼロから始める異世界生活)",
+                "popularity": 36,
+                "preview_url": "https://p.scdn.co/mp3-preview/e2522f95c7a58aa3cd260dc2641dac37afd79aad?cid=bd3f42fc46184dd4860e6ae28ff76274",
+                "track_number": 4,
+                "type": "track",
+                "uri": "spotify:track:3rrWCRsavfW6dTuzeyvbPp"
+            }
+        ],
+        "limit": 10,
+        "next": "https://api.spotify.com/v1/search?query=rezero&type=track&market=IN&locale=en-US%2Cen&offset=10&limit=10",
+        "offset": 0,
+        "previous": null,
+        "total": 586
+    }
+}

@@ -1,0 +1,9 @@
+.song-item{
+  
+    height: 70px;
+    width: 500px;
+    background: linear-gradient(45deg, #4C0F7E, #08010B);
+    border-radius: 8px;
+  
+    
+  }
